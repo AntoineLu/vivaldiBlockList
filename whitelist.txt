@@ -1,0 +1,4 @@
+! Title: privateWhitelist
+! Last modified: 10 Jul 2020 14:42 UTC
+
+@@$domain=catalog.gamepass.com
