@@ -1,4 +1,4 @@
-! Title: private Blacklist
+! Title: private Blacklist from AntoineLu
 ! Last modified: 10 Jul 2020 14:42 UTC
 ! Description: created using ublock origin select tool
 
