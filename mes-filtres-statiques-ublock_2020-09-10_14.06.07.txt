@@ -1,0 +1,5 @@
+! 2020-09-10 https://www.jeuxvideo.com
+www.jeuxvideo.com##.sideWootbox__icon
+www.jeuxvideo.com##.sideWootbox__title
+www.jeuxvideo.com##.sideWootbox__link
+www.jeuxvideo.com##.sideWootbox__header
