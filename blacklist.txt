@@ -1,3 +1,7 @@
+! Title: private Blacklist
+! Last modified: 10 Jul 2020 14:42 UTC
+! Description: created using ublock origin select tool
+
 ! 2020-09-10 https://www.jeuxvideo.com
 www.jeuxvideo.com##.sideWootbox__icon
 www.jeuxvideo.com##.sideWootbox__title
