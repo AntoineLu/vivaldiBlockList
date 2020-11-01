@@ -7,3 +7,5 @@ www.jeuxvideo.com##.sideWootbox__icon
 www.jeuxvideo.com##.sideWootbox__title
 www.jeuxvideo.com##.sideWootbox__link
 www.jeuxvideo.com##.sideWootbox__header
+www.jeuxvideo.com##.sideWootbox__header
+www.jeuxvideo.com##.span.btn.btn-actu-new-list-forum
