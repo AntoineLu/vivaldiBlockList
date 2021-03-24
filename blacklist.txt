@@ -9,6 +9,7 @@ www.jeuxvideo.com##.sideWootbox__link
 www.jeuxvideo.com##.sideWootbox__header
 www.jeuxvideo.com##.sideModule__sideGameAffiliate
 www.jeuxvideo.com##.sideDfp__inner
+www.jeuxvideo.com##.div.sideModule.sideGameAffiliate
 
 
 ! 2021-03-12 https://coolors.co/
