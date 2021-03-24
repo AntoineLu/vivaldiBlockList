@@ -10,7 +10,7 @@ www.jeuxvideo.com##.sideWootbox__header
 www.jeuxvideo.com##.sideModule__sideGameAffiliate
 www.jeuxvideo.com##.sideDfp__inner
 
-www.jeuxvideo.com##.sideModule sideGameAffiliate 
+www.jeuxvideo.com##.sideModule.sideGameAffiliate 
 www.jeuxvideo.com##.sideModule__footer
 www.jeuxvideo.com##.gameAffiliate sideGameAffiliate__affiliateBlock
 www.jeuxvideo.com##.sideModule__header
