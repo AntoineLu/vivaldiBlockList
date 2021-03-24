@@ -7,7 +7,7 @@ www.jeuxvideo.com##.sideWootbox__icon
 www.jeuxvideo.com##.sideWootbox__title
 www.jeuxvideo.com##.sideWootbox__link
 www.jeuxvideo.com##.sideWootbox__header
-www.jeuxvideo.com##.sideModule__sideGameAffiliate
+!www.jeuxvideo.com##.sideModule__sideGameAffiliate
 www.jeuxvideo.com##.sideDfp__inner
 www.jeuxvideo.com##.div.sideModule.sideGameAffiliate
 
