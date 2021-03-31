@@ -10,7 +10,11 @@ www.jeuxvideo.com##.sideWootbox__header
 www.jeuxvideo.com##.sideModule__sideGameAffiliate
 www.jeuxvideo.com##.sideDfp__inner
 
-! 2021-03-12 https://coolors.co/
-coolors.co##.generator_cad
-coolors.co##.#sticky-cad
-! coolors.co##.floating-cad
+! 2021-03-31 https://coolors.co
+coolors.co###modal-fabrizio_content
+||coolors.co/assets/img/fabrizio.png$image
+coolors.co###modal-fabrizio > .modal_container > .modal_cell > .modal_element
+coolors.co###modal-fabrizio > .modal_container > .modal_cell
+coolors.co###modal-fabrizio > .modal_container
+coolors.co##.floating-cad
+coolors.co###sticky-cad
