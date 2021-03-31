@@ -14,3 +14,9 @@ www.jeuxvideo.com##.sideDfp__inner
 coolors.co##.generator_cad
 coolors.co##.#sticky-cad
 coolors.co##.floating-cad
+
+! 2020-03-31 https://www.jeuxvideo.com
+www.jeuxvideo.com##.sideModule.sideGameAffiliate 
+www.jeuxvideo.com##.sideModule__footer
+www.jeuxvideo.com##.gameAffiliate sideGameAffiliate__affiliateBlock
+www.jeuxvideo.com##.sideModule__header
