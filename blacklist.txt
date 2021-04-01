@@ -18,3 +18,10 @@ coolors.co###modal-fabrizio > .modal_container > .modal_cell
 coolors.co###modal-fabrizio > .modal_container
 coolors.co##.floating-cad
 coolors.co###sticky-cad
+
+! 2021-04-01 https://www.jeuxvideo.com
+www.jeuxvideo.com##.sideModule__footer
+www.jeuxvideo.com##.gameAffiliate__container
+www.jeuxvideo.com##.sideModule__title
+www.jeuxvideo.com##.sideModule__icon
+www.jeuxvideo.com##.sideModule__header
