@@ -25,7 +25,13 @@ www.jeuxvideo.com##.gameAffiliate__container
 www.jeuxvideo.com##.sideModule__title
 www.jeuxvideo.com##.sideModule__icon
 www.jeuxvideo.com##.sideModule__header
+
+! 2021-05-19 https://www.jeuxvideo.com
+www.jeuxvideo.com##.video-footer-container
+www.jeuxvideo.com##.sideWootbox__link
+www.jeuxvideo.com##.sideWootbox__title
+www.jeuxvideo.com##.sideWootbox__icon
+www.jeuxvideo.com##.sideWootbox__header
+www.jeuxvideo.com##.promotional
 www.jeuxvideo.com##.sideDfp__prospect
 www.jeuxvideo.com##.sideDfp sideDfp--rectangle_mtf sideDfp--isDisplayed
-www.jeuxvideo.com##.layout__row layout__videoFooter
-www.jeuxvideo.com##.promotional
