@@ -25,3 +25,6 @@ www.jeuxvideo.com##.gameAffiliate__container
 www.jeuxvideo.com##.sideModule__title
 www.jeuxvideo.com##.sideModule__icon
 www.jeuxvideo.com##.sideModule__header
+www.jeuxvideo.com##.sideDfp__prospect
+www.jeuxvideo.com##.sideDfp sideDfp--rectangle_mtf sideDfp--isDisplayed
+www.jeuxvideo.com##.layout__row layout__videoFooter
