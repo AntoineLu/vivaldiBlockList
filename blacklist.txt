@@ -35,3 +35,6 @@ www.jeuxvideo.com##.sideWootbox__header
 www.jeuxvideo.com##.promotional
 www.jeuxvideo.com##.sideDfp__prospect
 www.jeuxvideo.com##.sideDfp sideDfp--rectangle_mtf sideDfp--isDisplayed
+
+! 2022-05-05 https://cycling.hutchinson.com
+cycling.hutchinson.com##.modal-backdrop.fade.show
