@@ -38,3 +38,6 @@ www.jeuxvideo.com##.sideDfp sideDfp--rectangle_mtf sideDfp--isDisplayed
 
 ! 2022-05-05 https://cycling.hutchinson.com
 cycling.hutchinson.com##.modal-backdrop.fade.show
+
+! 2022-11-10 https://www.sncf-connect.com
+www.sncf-connect.com##.WL_side_banner
