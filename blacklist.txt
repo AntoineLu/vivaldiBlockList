@@ -42,3 +42,4 @@ cycling.hutchinson.com##.modal-backdrop.fade.show
 ! 2022-11-10 https://www.sncf-connect.com
 www.sncf-connect.com##.WL_side_banner
 www.sncf-connect.com##.WLbanner_1539766726
+www.sncf-connect.com##.WL_side_banner
