@@ -47,6 +47,7 @@ www.sncf-connect.com##.WL_side_banner
 www.jeuxvideo.com##.div.layout__row layout__adHeader js-layout-adHeader
 www.jeuxvideo.com##.div.layout__row.layout__adHeader.js-layout-adHeader
 www.jeuxvideo.com##.div.layout__row.layout__videoFooter
+www.jeuxvideo.com##page-messages-forum
 
 www.jeuxvideo.com##.sideDfp__prospect
 www.jeuxvideo.com##.sideDfp sideDfp--rectangle_mtf sideDfp--isDisplayed
