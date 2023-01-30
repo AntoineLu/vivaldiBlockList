@@ -33,8 +33,6 @@ www.jeuxvideo.com##.sideWootbox__title
 www.jeuxvideo.com##.sideWootbox__icon
 www.jeuxvideo.com##.sideWootbox__header
 www.jeuxvideo.com##.promotional
-www.jeuxvideo.com##.sideDfp__prospect
-www.jeuxvideo.com##.sideDfp sideDfp--rectangle_mtf sideDfp--isDisplayed
 
 ! 2022-05-05 https://cycling.hutchinson.com
 cycling.hutchinson.com##.modal-backdrop.fade.show
@@ -43,3 +41,12 @@ cycling.hutchinson.com##.modal-backdrop.fade.show
 www.sncf-connect.com##.WL_side_banner
 www.sncf-connect.com##.WLbanner_1539766726
 www.sncf-connect.com##.WL_side_banner
+
+
+! 2023-30-01 https://www.jeuxvideo.com
+www.jeuxvideo.com##.layout__row layout__adHeader js-layout-adHeader
+www.jeuxvideo.com##.layout__row.layout__adHeader.js-layout-adHeader
+www.jeuxvideo.com##..layout__row.layout__videoFooter
+
+www.jeuxvideo.com##.sideDfp__prospect
+www.jeuxvideo.com##.sideDfp sideDfp--rectangle_mtf sideDfp--isDisplayed
